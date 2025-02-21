@@ -20,6 +20,5 @@ Questions? Reach out to me at karroomdj2005@gmail.com
 ## Acknowledgments
 -  This project was one of few showcase winners in my class, which exempted me from taking the Final Exam
 - CS 111 course staff and classmates for their feedback.
-- Python community for the Turtle graphics library.
 
 
