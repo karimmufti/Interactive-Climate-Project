@@ -3,7 +3,7 @@
 ## Overview
 ClimateChangeSlideshow is an interactive educational tool that uses Python's Turtle library to visualize the impacts of climate change through a series of animated slides.
 
-![Uploading Screenshot 2025-06-22 at 4.53.48 PM.png…]()
+<img width="564" alt="Screenshot 2025-06-22 at 4 54 19 PM" src="https://github.com/user-attachments/assets/91edf3e1-b0b8-40b1-bf51-f0cb8820e605" />
 
 
 ## Features
